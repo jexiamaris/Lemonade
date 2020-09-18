@@ -1,4 +1,4 @@
-# Lemonade New Era for Insurance Companies and Quickly Claim Payments 
+# Lemonade Creating a New Era for Insurance Companies  
 
 ## Overview and Origen 
 Company: Lemonade Inc. 
