@@ -2,9 +2,9 @@
 
 ## Overview and Origen 
 Company: Lemonade Inc. 
-Company incorporated in Septiembre 2016.
-Foundrs of the company: Daniel Schreiber and Shai Wininger. 
-The idea for Lemoney came back in 2015 when Daniel Schreiber had the idea for a technologycal change in insurance Companies because the industry were so traditional. Then, Shai Wininger came around the idea and signed as cofounder of Lemonade Inc. 
+Company incorporated in September 2016.
+Founders of the company: Daniel Schreiber and Shai Wininger. 
+The idea for Lemonade came back in 2015 when Daniel Schreiber had the idea for a technological change in insurance Companies because the industry were so traditional. Then, Shai Wininger came around the idea and signed as cofounder of Lemonade Inc. 
 Funded: Lemonade Inc. is funded with $13 million in seed funding from Sequoia Capital and Aleph. In August 2016, Lemonade Inc. raised $13 million in funding from XL Innovate, followed by a $34 million Series B funding round in December of the same year. 
 Latest valuation: $2.1 billion, according to PitchBook
 
@@ -53,11 +53,4 @@ Latest valuation: $2.1 billion, according to PitchBook
 * [SEC](https://www.sec.gov/Archives/edgar/data/1691421/000104746920003416/a2241721zs-1.htm)
 
 
-## Toc 
-- Title (/.Title)
-- Overview and Origin (./Overview_and_Origin)
-- Business Activities (./Business_Activities)
-- Landscape (./Landscape)
-- Results (./Results)
-- Recommendation (./Recommendation)
-- Images (./Images)
+
